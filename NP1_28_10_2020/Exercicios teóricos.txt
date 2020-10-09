@@ -1,0 +1,20 @@
+Exercício 01:
+A) Verdadeiro.
+B) Verdadeiro.
+C) Falso.
+D) Verdadeiro.
+
+Exercício 02:
+5 7 5 (Respectivamente).
+
+Exercício 03:
+5 7 7 (Respectivamente).
+
+Exercício 04:
+A variável "a" terá o valor 20.
+
+Exercício 05:
+"*", coloca-se entre o tipo da variável e a variável.
+
+Exercício 06:
+O endereço na memória de uma variável. 
